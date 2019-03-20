@@ -1,0 +1,10 @@
+ansimarkup==1.4.0
+better-exceptions-fork==0.2.1.post6
+colorama==0.4.1
+loguru==0.2.5
+pyaml==18.11.0
+Pygments==2.3.1
+PyYAML==5.1
+selenium==3.141.0
+simplejson==3.16.0
+urllib3==1.24.1

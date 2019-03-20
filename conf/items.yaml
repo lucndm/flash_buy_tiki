@@ -1,13 +1,12 @@
 items:
-    - url: https://tiki.vn/harry-potter-paperback-boxed-set-books-1-7-scholastic-us-version-p315391.html?spid=1941&src=home-deal-hot&2hi=1
-      price: 28.990.000
+  - url: https://tiki.vn/diu-tre-em-aprica-pitta-p134146.html?spid=134151&src=lp-438
+    price: "500000"
+  - url: https://tiki.vn/apple-macbook-air-2018-core-i5-8gb-128gb-hang-chinh-hang-p6906375.html?spid=6927299&src=lp-438
+    price: "12000000"
 
-    - url: https://tiki.vn/tro-thanh-sieu-nhan-tri-nho-p963479.html?src=recently-viewed&2hi=1
-      price: 28.990.000
-
-    - url: https://tiki.vn/apple-macbook-air-2018-core-i5-8gb-128gb-hang-chinh-hang-p6906375.html?spid=6927299&src=lp-438
-      price: 28.990.000
-
-    - url: https://tiki.vn/son-tra-xanh-thien-nhien-duong-moi-giam-tham-milaganics-4-5g-p524810.html?spid=243984&src=lp-438
-      price: 20000
+#    - url: https://tiki.vn/apple-macbook-air-2018-core-i5-8gb-128gb-hang-chinh-hang-p6906375.html?spid=6927299&src=lp-438
+#      price: 12.990.000
+#
+#    - url: https://tiki.vn/son-tra-xanh-thien-nhien-duong-moi-giam-tham-milaganics-4-5g-p524810.html?spid=243984&src=lp-438
+#      price: 20000
 check_inverter: 1
